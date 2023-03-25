@@ -1,4 +1,4 @@
-# Spine
+# Spine Animation Practice
 
 ### Import + Settings
 
